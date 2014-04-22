@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="4CAE518D-FF79-4D6C-B850-368C38921604" ModuleId="Web" />
+  <Module PersistentId="E02530B9-7E51-435E-B4B9-95662FD40DDC" ModuleId="Domain" />
+  <Module PersistentId="7B46D82A-B022-42E0-8A76-8C8734371E5E" ModuleId="BusinessLogic" />
+</Modules>

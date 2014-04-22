@@ -1,0 +1,14 @@
+C:\Users\Андрей\Desktop\проект\Library\Web\bin\Web.dll
+C:\Users\Андрей\Desktop\проект\Library\Web\bin\Web.pdb
+C:\Users\Андрей\Desktop\проект\Library\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\проект\Library\Web\obj\Debug\Web.dll
+C:\Users\Андрей\Desktop\проект\Library\Web\obj\Debug\Web.pdb
+C:\Users\Андрей\Desktop\проект\Library\Web\bin\BusinessLogic.dll
+C:\Users\Андрей\Desktop\проект\Library\Web\bin\Domain.dll
+C:\Users\Андрей\Desktop\проект\Library\Web\bin\EntityFramework.dll
+C:\Users\Андрей\Desktop\проект\Library\Web\bin\Ninject.dll
+C:\Users\Андрей\Desktop\проект\Library\Web\bin\BusinessLogic.pdb
+C:\Users\Андрей\Desktop\проект\Library\Web\bin\Domain.pdb
+C:\Users\Андрей\Desktop\проект\Library\Web\bin\EntityFramework.xml
+C:\Users\Андрей\Desktop\проект\Library\Web\bin\Ninject.pdb
+C:\Users\Андрей\Desktop\проект\Library\Web\bin\Ninject.xml

@@ -1,0 +1,10 @@
+C:\Users\Андрей\Desktop\проект\Library\Domain\bin\Debug\Domain.dll
+C:\Users\Андрей\Desktop\проект\Library\Domain\bin\Debug\Domain.pdb
+C:\Users\Андрей\Desktop\проект\Library\Domain\obj\Debug\Domain.dll
+C:\Users\Андрей\Desktop\проект\Library\Domain\obj\Debug\Domain.pdb
+C:\Users\Андрей\Desktop\проект\Library\Domain\bin\Debug\Domain.dll.config
+C:\Users\Андрей\Desktop\проект\Library\Domain\bin\Debug\EntityFramework.dll
+C:\Users\Андрей\Desktop\проект\Library\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Андрей\Desktop\проект\Library\Domain\bin\Debug\EntityFramework.xml
+C:\Users\Андрей\Desktop\проект\Library\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Андрей\Desktop\проект\Library\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
