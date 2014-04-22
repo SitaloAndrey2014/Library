@@ -1,0 +1,51 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="E02530B9-7E51-435E-B4B9-95662FD40DDC/d:Entities/f:Author.cs" caret="0" fromTop="0" />
+    <File id="E02530B9-7E51-435E-B4B9-95662FD40DDC/d:Entities/f:Order.cs" caret="0" fromTop="0" />
+    <File id="E02530B9-7E51-435E-B4B9-95662FD40DDC/d:Entities/f:Book.cs" caret="0" fromTop="0" />
+    <File id="4CAE518D-FF79-4D6C-B850-368C38921604/f:Global.asax.cs" caret="967" fromTop="23" />
+    <File id="7B46D82A-B022-42E0-8A76-8C8734371E5E/d:Interfaces/f:IUsersRepository.cs" caret="529" fromTop="14" />
+    <File id="7B46D82A-B022-42E0-8A76-8C8734371E5E/f:DatаManager.cs" caret="0" fromTop="0" />
+    <File id="4CAE518D-FF79-4D6C-B850-368C38921604/d:Models/f:LoginVievModel.cs" caret="200" fromTop="9" />
+    <File id="7B46D82A-B022-42E0-8A76-8C8734371E5E/d:Implementations/f:EFUsersRepository.cs" caret="2037" fromTop="5" />
+    <File id="7B46D82A-B022-42E0-8A76-8C8734371E5E/f:PrimaryMembershipProvider.cs" caret="878" fromTop="16" />
+    <File id="4CAE518D-FF79-4D6C-B850-368C38921604/f:Web.config" caret="851" fromTop="21" />
+    <File id="4CAE518D-FF79-4D6C-B850-368C38921604/d:Views/d:Account/f:Register.cshtml" caret="119" fromTop="6" />
+    <File id="4CAE518D-FF79-4D6C-B850-368C38921604/d:Views/f:_ViewStart.cshtml" caret="52" fromTop="2" />
+    <File id="4CAE518D-FF79-4D6C-B850-368C38921604/d:Models/f:RegisterViewModel.cs" caret="875" fromTop="19" />
+    <File id="4CAE518D-FF79-4D6C-B850-368C38921604/d:Views/d:Account/f:Success.cshtml" caret="39" fromTop="3" />
+    <File id="4CAE518D-FF79-4D6C-B850-368C38921604/d:Views/d:Account/f:Index.cshtml" caret="673" fromTop="24" />
+    <File id="4CAE518D-FF79-4D6C-B850-368C38921604/d:Controllers/f:HomeController.cs" caret="250" fromTop="13" />
+    <File id="E02530B9-7E51-435E-B4B9-95662FD40DDC/d:Entities/f:User.cs" caret="212" fromTop="9" />
+    <File id="4CAE518D-FF79-4D6C-B850-368C38921604/d:Views/d:Home/f:Index.cshtml" caret="0" fromTop="0" />
+    <File id="4CAE518D-FF79-4D6C-B850-368C38921604/f:NinjectControllerFactory.cs" caret="1705" fromTop="16" />
+    <File id="E02530B9-7E51-435E-B4B9-95662FD40DDC/f:EFDbContext.cs" caret="94" fromTop="5" />
+    <File id="4CAE518D-FF79-4D6C-B850-368C38921604/d:Controllers/f:AccountController.cs" caret="379" fromTop="12" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="4CAE518D-FF79-4D6C-B850-368C38921604/d:Controllers/f:AccountController.cs" caret="160" fromTop="5" />
+    <File id="4CAE518D-FF79-4D6C-B850-368C38921604/d:Controllers/f:AccountController.cs" caret="424" fromTop="14" />
+    <File id="4CAE518D-FF79-4D6C-B850-368C38921604/f:Web.config" caret="1615" fromTop="28" />
+    <File id="4CAE518D-FF79-4D6C-B850-368C38921604/d:Models/f:LoginVievModel.cs" caret="340" fromTop="15" />
+    <File id="4CAE518D-FF79-4D6C-B850-368C38921604/d:Views/d:Account/f:Index.cshtml" caret="40" fromTop="1" />
+    <File id="4CAE518D-FF79-4D6C-B850-368C38921604/d:Controllers/f:HomeController.cs" caret="158" fromTop="8" />
+    <File id="4CAE518D-FF79-4D6C-B850-368C38921604/d:Views/d:Account/f:Index.cshtml" caret="546" fromTop="11" />
+    <File id="4CAE518D-FF79-4D6C-B850-368C38921604/d:Controllers/f:AccountController.cs" caret="742" fromTop="27" />
+    <File id="4CAE518D-FF79-4D6C-B850-368C38921604/f:Web.config" caret="851" fromTop="15" />
+    <File id="7B46D82A-B022-42E0-8A76-8C8734371E5E/d:Implementations/f:EFUsersRepository.cs" caret="932" fromTop="15" />
+    <File id="4CAE518D-FF79-4D6C-B850-368C38921604/f:NinjectControllerFactory.cs" caret="1410" fromTop="12" />
+    <File id="4CAE518D-FF79-4D6C-B850-368C38921604/f:Web.config" caret="461" fromTop="10" />
+    <File id="4CAE518D-FF79-4D6C-B850-368C38921604/d:Views/d:Account/f:Index.cshtml" caret="245" fromTop="12" />
+    <File id="4CAE518D-FF79-4D6C-B850-368C38921604/d:Controllers/f:AccountController.cs" caret="979" fromTop="26" />
+    <File id="4CAE518D-FF79-4D6C-B850-368C38921604/d:Models/f:RegisterViewModel.cs" caret="1233" fromTop="19" />
+    <File id="4CAE518D-FF79-4D6C-B850-368C38921604/d:Models/f:RegisterViewModel.cs" caret="441" fromTop="17" />
+    <File id="4CAE518D-FF79-4D6C-B850-368C38921604/d:Models/f:RegisterViewModel.cs" caret="1182" fromTop="28" />
+    <File id="4CAE518D-FF79-4D6C-B850-368C38921604/d:Views/d:Account/f:Register.cshtml" caret="1338" fromTop="37" />
+    <File id="4CAE518D-FF79-4D6C-B850-368C38921604/d:Views/d:Account/f:Index.cshtml" caret="653" fromTop="22" />
+    <File id="4CAE518D-FF79-4D6C-B850-368C38921604/d:Controllers/f:AccountController.cs" caret="2599" fromTop="37" />
+    <File id="4CAE518D-FF79-4D6C-B850-368C38921604/d:Views/d:Account/f:Success.cshtml" caret="169" fromTop="6" />
+    <File id="4CAE518D-FF79-4D6C-B850-368C38921604/d:Views/d:Account/f:Register.cshtml" caret="611" fromTop="17" />
+    <File id="4CAE518D-FF79-4D6C-B850-368C38921604/d:Controllers/f:AccountController.cs" caret="1415" fromTop="21" />
+    <File id="4CAE518D-FF79-4D6C-B850-368C38921604/d:Models/f:RegisterViewModel.cs" caret="875" fromTop="19" />
+  </RecentEdits>
+</RecentFiles>

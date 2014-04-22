@@ -1,0 +1,4 @@
+C:\Users\Андрей\Desktop\проект\Library\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Андрей\Desktop\проект\Library\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Андрей\Desktop\проект\Library\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Андрей\Desktop\проект\Library\UnitTests\obj\Debug\UnitTests.pdb
